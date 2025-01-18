@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -31,3 +32,7 @@ build/
 
 ### VS Code ###
 .vscode/
+=======
+src/main/resources/application.properties
+src/main/resources/application.yaml
+>>>>>>> e6767dea17675afe6203683c3f408009a5c93e58
